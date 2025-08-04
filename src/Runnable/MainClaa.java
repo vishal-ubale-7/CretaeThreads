@@ -1,6 +1,6 @@
 package Runnable;
 
-public class MainClaa
+public class MainClass
 {
     public static void main(String args [])
     {
